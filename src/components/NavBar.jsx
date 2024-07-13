@@ -41,7 +41,7 @@ const NavBar = () => {
                 {
                     data.map((item, key) => (
                         <li key={key} className="navbar__menu__link">
-                            <button onClick={() => handleNavingateToPage(item.to)}>
+                            <button className={location.pathname === item.to ? 'active' : ''} onClick={() => handleNavingateToPage(item.to)}>
                                 <span className="navbar__menu__link__span">
                                     {item.label}
                                 </span>

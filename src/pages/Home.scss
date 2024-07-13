@@ -64,5 +64,13 @@
             height: 230px;
             width: 230px;
         }
+        &__6 {
+            top: -7%;
+            left: 30%;
+            transform: translate(-50%, -50%);
+            height: 200px;
+            width: 200px;
+            box-shadow: 0 0px 30px var(--shadow-color);
+        }
     }
 }
