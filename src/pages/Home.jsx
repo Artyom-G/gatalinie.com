@@ -1,5 +1,7 @@
 import React, { useEffect } from 'react';
 import './Home.scss';
+import BottomBar from '../components/BottomBar';
+import avatar from '../assets/avatar.png'; // Ensure the path is correct
 
 export const Home = () => {
 
@@ -24,7 +26,10 @@ export const Home = () => {
 
     return (  
         <div className='home'>
-            <div className='home__main'></div>
+            <BottomBar/>
+            <div className='home__main'>
+                <img src={avatar} alt="Avatar" className="home__avatar" />
+            </div>
             <div className='home__circles'>
                 <span className="home__circles__base home__circles__1"></span>
                 <span className="home__circles__base home__circles__2"></span>

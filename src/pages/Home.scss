@@ -7,6 +7,16 @@
 
     }
 
+    &__avatar {
+        position: absolute;
+        top: 17%; 
+        left: 50%;
+        transform: translateX(-50%);
+        width: 40%;
+        height: auto;
+        z-index: 5;
+    }
+
     &__circles {
         position: absolute;
         top: 0;
