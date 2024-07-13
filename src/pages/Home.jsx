@@ -11,9 +11,9 @@ export const Home = () => {
             circle.animate(
                 [
                     { transform: 'scale(1)', opacity: 0.9 },
-                    { transform: 'scale(1.02)', opacity: 0.82 },
-                    { transform: 'scale(1.03)', opacity: 0.8 },
-                    { transform: 'scale(1.02)', opacity: 0.82 },
+                    { transform: 'scale(1.03)', opacity: 0.82 },
+                    { transform: 'scale(1.04)', opacity: 0.8 },
+                    { transform: 'scale(1.03)', opacity: 0.82 },
                     { transform: 'scale(1)', opacity: 0.9 }
                 ],
                 {
