@@ -6,9 +6,10 @@
     --radial-gradient: radial-gradient(circle, rgba(167,33,115,1) 0%, rgba(176,41,124,1) 79%, rgba(224,110,190,1) 100%);
     --white: #fcd5ed;
     --navigation-bar-color: rgba(24, 3, 12, 0.1);
-    --glow: 0 0 7px var(--primary-color);
-    --glow-text: 0 0 2px var(--primary-color);
-    --glow-white: 0 0 4px var(--white);
+    --glow: 0 0 5px var(--primary-color);
+    --glow-text: 0 0 0px var(--primary-color);
+    --glow-white: 0 0 5px var(--white);
+    --glow-white-text: 0 0 1px var(--white);
     
     background-color: var(--background-color);
     

@@ -5,7 +5,6 @@
     right: 30%;
     box-shadow: none;
     background-color: transparent;
-    height: 100px;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -16,7 +15,10 @@
 
     &__menu {
         //border: 2px solid orange;
-        border: 3px solid var(--primary-color);
+        border-width: 0px 3px 0px 3px;
+        //border-width: 3px;
+        border-color: var(--primary-color);
+        border-style: solid;
         display: flex;
         align-items: center;
         width: 100%;
@@ -24,12 +26,13 @@
         backdrop-filter: blur(10px);
         border-radius: 100px;
         background-color: var(--navigation-bar-color);
-        padding-top: 20px;
-        padding-bottom: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
         padding-left: 60px;
         padding-right: 60px;
         justify-content: center;
-        box-shadow: var(--glow);
+        //box-shadow: var(--glow);
+        //box-shadow: 2px 0px 1px var(--primary-color);
         display: flex;
         list-style: none;
         text-align: center;
@@ -55,7 +58,7 @@
                     font-weight: 400;
                     font-size: 18pt;
                     color: var(--white);
-                    text-shadow: 0 0 4px var(--white);
+                    text-shadow: var(--glow-white-text);
                     position: relative;
                     z-index: 1;
                 }
