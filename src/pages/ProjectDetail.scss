@@ -1,0 +1,16 @@
+.project-detail {
+    padding-top: 150px;
+    padding-bottom: 300px;
+    width: 60%;
+    max-width: 800px;
+    margin: 0 auto;
+    
+
+    h1, h2, h3 {
+        color: var(--primary-color);
+    }
+
+    p, li{
+        color: var(--white);        
+    }
+}
