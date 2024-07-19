@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.scss';
 import { Home } from './pages/Home';
+import { Services } from './pages/Services';
 import Projects from './pages/Projects';
 import ProjectDetail from './pages/ProjectDetail';
 import NavBar from './components/NavBar';
@@ -14,6 +15,7 @@ function App() {
                 <NavBar />
                 <Routes>
                     <Route index path='/' element={<Home />} />
+                    <Route index path='/services' element={<Services />} />
                     <Route index path='/projects' element={<Projects />} />
                     <Route index path="/projects/:name" element={<ProjectDetail />} />
                 </Routes>
