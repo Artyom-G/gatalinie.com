@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
+import ProjectCard from '../components/ProjectCard';
 import './Projects.scss';
 
 const Projects = () => {
@@ -15,6 +16,9 @@ const Projects = () => {
                     return { ...data, name: projectName };
                 })
             );
+
+            projectData.sort((a, b) => new Date(b.date) - new Date(a.date));
+
             console.log(projectData);
             setProjects(projectData);
         };
@@ -24,12 +28,8 @@ const Projects = () => {
     return (
         <div className="projects">
             {projects.map((project, index) => (
-                <div key={index} className="project-card">
-                    <Link to={`/projects/${project.name}`}>
-                        <img src={project.bannerImage} alt={project.title} className="project-card__image" />
-                        <h3 className="project-card__title">{project.title}</h3>
-                        <p className="project-card__description">{project.description}</p>
-                    </Link>
+                <div key={index}>
+                    <ProjectCard project={project}/>
                 </div>
             ))}
         </div>

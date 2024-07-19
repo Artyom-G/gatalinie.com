@@ -10,12 +10,12 @@ const data = [
         to: '/',
     },
     {
-        label: 'Projects',
-        to: '/projects'
+        label: 'Services',
+        to: '/services'
     },
     {
-        label: 'Styling',
-        to: '/styling'
+        label: 'Projects',
+        to: '/projects'
     }
 
 ]
