@@ -20,10 +20,9 @@
         align-items: center;
         width: 100%;
         flex: 1;
-        backdrop-filter: blur(10px);
+        backdrop-filter: blur(4px);
         border-radius: 100px;
         background-color: rgba(29, 17, 23, 0.8);
-        box-shadow: var(--glow-white);
         padding-top: 15px;
         padding-bottom: 15px;
         padding-left: 60px;
@@ -54,7 +53,6 @@
                     font-weight: 400;
                     font-size: 18pt;
                     color: var(--white);
-                    text-shadow: var(--glow-text);
                     position: relative;
                     z-index: 1;
                 }
@@ -69,7 +67,6 @@
                     width: 0;
                     height: 3px;
                     background-color: var(--white);
-                    box-shadow: var(--glow);
                     transition: width 0.3s ease;
                 }
 
@@ -83,18 +80,15 @@
 
                 border: 3px solid var(--primary-color);
                 background-color: rgba(27, 0, 19, 0.3);
-                box-shadow: var(--glow);
 
                 span {
                     font-weight: 600;
                     color: var(--primary-color);
-                    text-shadow: var(--glow-text)
                 }
 
                 ::after {
                     width: 100%;
                     background-color: var(--primary-color);
-                    box-shadow: var(--glow);
                 }
             }
         }
