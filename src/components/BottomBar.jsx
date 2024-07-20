@@ -12,7 +12,7 @@ const data = [
 ]
 
 
-const BottomBar = () => {
+const BottomBar = ({ setState }) => {
     
     const [toggleIcon, setToggleIcon] = useState(false);
     const [location, setLocation] = useState(data[0].label);
@@ -27,7 +27,7 @@ const BottomBar = () => {
                 {
                     data.map((item, key) => (
                         <li key={key} className="bottombar__menu__link">
-                            <button className={location === item.label ? 'active' : ''} onClick={() => setLocation(item.label)}>
+                            <button className={location === item.label ? 'active' : ''} onClick={() => {setLocation(item.label); setState(item.label)}}>
                                 <span className="bottombar__menu__link__span">
                                     {item.label}
                                 </span>
