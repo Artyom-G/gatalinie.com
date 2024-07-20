@@ -45,10 +45,10 @@ export const Home = () => {
             </div>
             <div className={`home__circles ${state==="GaTalinie" ? 'home__active-circles' : 'home__deactive-circles'}`}>
                 <span className="home__circles__base home__circles__1">
-                    <div className={`home__contact ${state==="Contact" ? 'home__active-form' : 'home__deactive-form'}`}>
-                        <EmailJs/>
-                    </div>
                 </span>
+                <div className={`home__contact ${state==="Contact" ? 'home__active-form' : 'home__deactive-form'}`}>
+                    <EmailJs/>
+                </div>
                 <span className="home__circles__base home__circles__2"></span>
                 <span className="home__circles__base home__circles__3"></span>
                 <span className="home__circles__base home__circles__4"></span>
