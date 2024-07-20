@@ -1,7 +1,10 @@
 import React, { useEffect } from 'react';
 import './Home.scss';
 import BottomBar from '../components/BottomBar';
-import avatar from '../assets/avatar.png'; // Ensure the path is correct
+import avatar from '../assets/avatar.png';
+import hands1 from '../assets/hands1.png';
+import hands2 from '../assets/hands2.png';
+import hands3 from '../assets/hands3.png';
 
 export const Home = () => {
 
@@ -29,6 +32,9 @@ export const Home = () => {
             <BottomBar/>
             <div className='home__main'>
                 <img src={avatar} alt="Avatar" className="home__avatar" />
+                <img src={hands1} alt="Gatalinie Hands1" className="home__hands home__hands1" />
+                <img src={hands2} alt="Gatalinie Hands2" className="home__hands home__hands2" />
+                <img src={hands3} alt="Gatalinie Hands3" className="home__hands home__hands3" />
             </div>
             <div className='home__circles'>
                 <span className="home__circles__base home__circles__1"></span>

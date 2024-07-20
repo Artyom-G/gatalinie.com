@@ -10,7 +10,7 @@ import './MarkdownCustom.scss';
 const transformYouTube = () => (tree) => {
     const visit = (node, index, parent) => {
         if (node.type === 'html' && node.value.startsWith('<youtube ')) {
-            const embedIdMatch = node.value.match(/embedId="(.+?)"/);
+            const embedIdMatch = node.value.match(/<youtube embedId="(.+?)">/);
             if (embedIdMatch) {
                 const embedId = embedIdMatch[1];
                 parent.children.splice(index, 1, {

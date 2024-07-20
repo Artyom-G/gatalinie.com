@@ -9,12 +9,41 @@
 
     &__avatar {
         position: absolute;
-        top: 17%; 
+        top: -30%; 
         left: 50%;
         transform: translateX(-50%);
-        width: 40%;
+        width: 1300px;
         height: auto;
         z-index: 5;
+    }
+
+    &__hands{
+        position: absolute;
+        width: auto;
+        height: auto;
+        z-index: 6;
+        transition: transform 0.4s;
+        //pointer-events: none;
+        
+        &:hover{
+            transform: translateY(5%);
+        }
+    }
+
+
+    &__hands1{
+        bottom: 8%; 
+        left: 63%;
+    }
+
+    &__hands2{
+        bottom: 5%; 
+        left: 20%;
+    }
+    
+    &__hands3{
+        bottom: 40%; 
+        left: 20%;
     }
 
     &__circles {

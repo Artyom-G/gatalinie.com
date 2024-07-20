@@ -1,4 +1,18 @@
-# Project 1
+# Sketching
 Description of Project 1
 
-![alt text](image.png)
+![red dress](../assets/avatar.png)
+![amonggus](image.png)
+
+jfdklsjfkfnsdknk
+
+# Patterns
+## Pattern 1
+### Pattern 1.5
+
+fdsfgfsgdrg
+<youtube embedId="DqOwINnmhyA">
+
+# Sewing 
+
+# Styling
