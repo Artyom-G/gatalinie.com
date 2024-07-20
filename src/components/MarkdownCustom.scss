@@ -13,4 +13,10 @@
     p, li{
         color: var(--white);        
     }
+
+    img{
+        width: 100%;
+        max-width: 800px;
+        max-height: 700px;
+    }
 }
