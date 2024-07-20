@@ -14,6 +14,7 @@
     //border: 2px solid red;
 
     &__menu {
+        box-shadow: var(--shadow-grey);
         //border: 2px solid orange;
         border-width: 0px 3px 0px 3px;
         //border-width: 3px;
@@ -39,10 +40,6 @@
         gap: 90px;
 
         &__link {
-
-            button:hover{
-                //background-color: rgba(37, 27, 34, 0.3);
-            }
 
             button {
                 padding: 10px;

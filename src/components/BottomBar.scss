@@ -1,8 +1,7 @@
 .bottombar {
     position: absolute;
     bottom: 100px;
-    left: 40%;
-    right: 40%;
+    width: 100%;
     box-shadow: none;
     background-color: transparent;
     display: flex;
@@ -13,12 +12,14 @@
     z-index: 10;
 
     &__menu {
+        box-shadow: var(--shadow);
         border-width: 3px 3px 3px 3px;
         border-color: var(--white);
         border-style: solid;
         display: flex;
         align-items: center;
         width: 100%;
+        max-width: 400px;
         flex: 1;
         backdrop-filter: blur(4px);
         border-radius: 100px;

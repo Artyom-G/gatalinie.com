@@ -2,7 +2,9 @@
 
     --primary-color: #a62173;
     --background-color: #252025;
-    --shadow-color: rgba(36, 3, 18, 0.902);
+    --shadow-color: #240312e6;
+    --shadow: 0 15px 30px var(--shadow-color);
+    --shadow-grey: 0 15px 30px #160e12e6;
     --radial-gradient: radial-gradient(circle, rgba(167,33,115,1) 0%, rgba(176,41,124,1) 79%, rgba(224,110,190,1) 100%);
     --white: #fcd5ed;
     --navigation-bar-color: #18030c1a;
