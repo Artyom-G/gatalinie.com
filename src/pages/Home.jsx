@@ -5,6 +5,7 @@ import avatar from '../assets/avatar.png';
 import hands1 from '../assets/hands1.png';
 import hands2 from '../assets/hands2.png';
 import hands3 from '../assets/hands3.png';
+import EmailJs from '../components/EmailJs';
 
 export const Home = () => {
 
@@ -42,8 +43,12 @@ export const Home = () => {
                 <img src={hands2} alt="Gatalinie Hands2" className="home__main__hands home__main__hands2" />
                 <img src={hands3} alt="Gatalinie Hands3" className="home__main__hands home__main__hands3" />
             </div>
-            <div className={`home__circles ${state==="GaTalinie" ? 'home__active' : 'home__deactive-circles'}`}>
-                <span className="home__circles__base home__circles__1"></span>
+            <div className={`home__circles ${state==="GaTalinie" ? 'home__active-circles' : 'home__deactive-circles'}`}>
+                <span className="home__circles__base home__circles__1">
+                    <div className={`home__contact ${state==="Contact" ? 'home__active-form' : 'home__deactive-form'}`}>
+                        <EmailJs/>
+                    </div>
+                </span>
                 <span className="home__circles__base home__circles__2"></span>
                 <span className="home__circles__base home__circles__3"></span>
                 <span className="home__circles__base home__circles__4"></span>
