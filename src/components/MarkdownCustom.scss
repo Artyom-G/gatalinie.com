@@ -15,7 +15,9 @@
     }
 
     img{
-        width: 100%;
+        width: auto;
+        height: auto;
+        min-width: 500px;
         max-width: 800px;
         max-height: 700px;
     }

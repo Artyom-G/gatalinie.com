@@ -1,18 +1,9 @@
-# Sketching
-Description of Project 1
+The website is reading and interpretting a MD file for every project
 
-![red dress](../assets/avatar.png)
-![amonggus](image.png)
+# Project 1
 
-jfdklsjfkfnsdknk
+![Image](https://img-cdn.pixlr.com/image-generator/history/65bb506dcb310754719cf81f/ede935de-1138-4f66-8ed7-44bd16efc709/medium.webp)
 
-# Patterns
-## Pattern 1
-### Pattern 1.5
+# Custom MD Video Element 
 
-fdsfgfsgdrg
-<youtube embedId="DqOwINnmhyA">
-
-# Sewing 
-
-# Styling
+<youtube embedid="BxV14h0kFs0">
