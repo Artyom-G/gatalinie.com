@@ -3,10 +3,11 @@
     overflow: hidden;
     height: 100vh; 
     width: 100%;
-    
+
     &__deactive {
         transform: translateY(-200%);
     }
+
     &__main {
         width: 100%;
         height: 100%;
@@ -16,45 +17,45 @@
 
         &__avatar {
             position: absolute;
-            top: -30%; 
+            top: 20%; 
             left: 50%;
             transform: translateX(-50%);
-            width: 1300px;
+            width: 1200px;
             height: auto;
             z-index: 5;
         }
-    
-        &__hands{
+
+        &__hands {
             position: absolute;
-            width: auto;
+            width: 360px;
             height: auto;
             z-index: 6;
             transition: transform 0.4s;        
         }
-    
-        &__hands1{
+
+        &__hands1 {
             bottom: 8%; 
-            left: 63%;
-    
-            &:hover{
+            left: calc(50% + 250px); 
+
+            &:hover {
                 transform: translateX(-10%);
             }
         }
-    
-        &__hands2{
+
+        &__hands2 {
             bottom: 5%; 
-            left: 20%;
-    
-            &:hover{
+            left: calc(50% - 250px - 360px); 
+
+            &:hover {
                 transform: translateX(10%);
             }
         }
-        
-        &__hands3{
+
+        &__hands3 {
             bottom: 40%; 
-            left: 20%;
-    
-            &:hover{
+            left: calc(50% - 250px  - 360px);
+
+            &:hover {
                 transform: translateX(10%);
             }
         }
@@ -63,6 +64,7 @@
     &__deactive-circles {
         transform: translateY(-40%);
     }
+
     &__circles {
         position: absolute;
         top: 0;
@@ -122,6 +124,7 @@
             height: 230px;
             width: 230px;
         }
+
         &__6 {
             top: -7%;
             left: 30%;
@@ -132,15 +135,15 @@
         }
     }
 
-    &__active-form{
+    &__active-form {
         pointer-events: all;
     }
 
-    &__deactive-form{
+    &__deactive-form {
         transform: translateY(70%);
     }
 
-    &__contact{
+    &__contact {
         position: relative;
         width: 800px;
         height: 800px;
@@ -152,8 +155,203 @@
         justify-content: center;
         align-items: center;
         
-        .contact-form{
+        .contact-form {
             padding-bottom: 100px;
+        }
+    }
+}
+
+@media only screen and (max-width: 749px){
+
+    .home{
+
+        &__main {
+    
+            &__avatar {
+                top: 22%;
+                width: 500px;
+            }
+
+            &__hands {
+                width: 120px;
+            }
+
+            &__hands1{
+                left: calc(50% + 100px); 
+                bottom: 40%; 
+            }
+            
+            &__hands2{
+                left: calc(50% - 100px - 120px); 
+                bottom: 50%; 
+            }
+
+            &__hands3{
+                left: calc(50% - 100px - 120px); 
+                bottom: 32%; 
+            }
+        }
+
+        &__circles {
+            
+            &__base{
+                scale: 0.7;
+            }
+
+            &__1 {
+                top: 50%;
+                left: calc(50% - 400px);
+
+            }
+    
+            &__2 {
+                top: 18%; 
+                left: 5%;
+            }
+
+            &__3 {
+                top: 60%; 
+                left: 5%;
+            }
+    
+            &__4 {
+                top: 50%; 
+                right: 0%;
+            }
+    
+            &__5 {
+                top: 3%; 
+                right: 6%;
+            }
+        }
+
+        &__contact {
+            width: 600px;
+            height: 600px;
+            top: 55%;
+            left: calc(50% - 300px);
+            
+            .contact-form {
+                padding-bottom: 0px;
+            }
+        }
+    }
+}
+
+@media only screen and (min-width : 750px) and (max-width: 999px){
+
+    .home{
+
+        &__main {
+    
+            &__avatar {
+                top: 22%;
+                width: 900px;
+            }
+
+            &__hands {
+                width: 220px;
+            }
+
+            &__hands1{
+                left: calc(50% + 180px); 
+                bottom: 18%; 
+            }
+            
+            &__hands2{
+                left: calc(50% - 180px - 220px); 
+                bottom: 10%; 
+            }
+
+            &__hands3{
+                left: calc(50% - 180px - 220px); 
+                bottom: 40%; 
+            }
+        }
+
+        &__circles {
+            
+            &__base{
+                scale: 0.8;
+            }
+
+            &__1 {
+                top: 50%;
+                left: calc(50% - 400px);
+                transform: translate(-50%, -50%);
+
+            }
+    
+            &__2 {
+                top: 18%; 
+                left: 8%;
+            }
+
+            &__3 {
+                top: 60%; 
+                left: 10%;
+            }
+    
+            &__4 {
+                top: 50%; 
+                right: 10%;
+            }
+    
+            &__5 {
+                top: 3%; 
+                right: 6%;
+            }
+        }
+
+        &__contact {
+            width: 600px;
+            height: 600px;
+            top: 55%;
+            left: calc(50% - 300px);
+            
+            .contact-form {
+                padding-bottom: 0px;
+            }
+        }
+    }
+}
+
+@media only screen and (min-width : 1000px) and (max-width: 1301px){
+
+    .home{
+
+        &__main {
+    
+            &__avatar {
+                top: 22%;
+                width: 1000px;
+            }
+
+            &__hands {
+                width: 260px;
+            }
+
+            &__hands1{
+                left: calc(50% + 220px); 
+                bottom: 18%; 
+            }
+            
+            &__hands2{
+                left: calc(50% - 220px - 260px); 
+                bottom: 10%; 
+            }
+
+            &__hands3{
+                left: calc(50% - 220px - 260px); 
+                bottom: 40%; 
+            }
+        }
+
+        &__circles {
+            
+            &__base{
+                scale: 0.9;
+            }
         }
     }
 }
