@@ -140,7 +140,7 @@
     }
 
     &__deactive-form {
-        transform: translateY(70%);
+        transform: translateY(100%);
     }
 
     &__contact {
@@ -226,13 +226,22 @@
         }
 
         &__contact {
-            width: 600px;
+            width: 95%;
+            max-width: 600px;
             height: 600px;
-            top: 55%;
-            left: calc(50% - 300px);
+            top: 50%;
+            left: 0px;
             
             .contact-form {
                 padding-bottom: 0px;
+
+                p{
+                    font-size: 12pt;
+                }
+
+                span{
+                    font-size: 12pt;
+                }
             }
         }
     }

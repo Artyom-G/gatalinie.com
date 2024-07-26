@@ -100,7 +100,32 @@
     display: none;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 460px) {
+    .bottombar{
+
+        bottom: 50px;
+
+        &__menu{
+            scale: 0.7;
+            gap: 10px;
+            max-width: 300px;
+            min-width: 260px;
+
+            &__link{
+
+                button{
+                    width: 160px;
+                    
+                    span{
+                        font-size: 16pt;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: 461px) and (max-width: 800px) {
     .bottombar{
 
         bottom: 50px;
