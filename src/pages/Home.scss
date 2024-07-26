@@ -140,7 +140,7 @@
     }
 
     &__deactive-form {
-        transform: translateY(100%);
+        transform: translateY(70%);
     }
 
     &__contact {
@@ -164,7 +164,8 @@
 @media only screen and (max-width: 749px){
 
     .home{
-
+        height: 90vh;
+        
         &__main {
     
             &__avatar {
@@ -225,11 +226,15 @@
             }
         }
 
+        &__deactive-form {
+            transform: translateY(120%);
+        }
+
         &__contact {
             width: 95%;
             max-width: 600px;
             height: 600px;
-            top: 50%;
+            top: 60%;
             left: 0px;
             
             .contact-form {
@@ -250,6 +255,7 @@
 @media only screen and (min-width : 750px) and (max-width: 999px){
 
     .home{
+        height: 90vh;
 
         &__main {
     
@@ -312,10 +318,14 @@
             }
         }
 
+        &__deactive-form {
+            transform: translateY(100%);
+        }
+
         &__contact {
             width: 600px;
             height: 600px;
-            top: 55%;
+            top: 60%;
             left: calc(50% - 300px);
             
             .contact-form {
@@ -354,6 +364,10 @@
                 left: calc(50% - 220px - 260px); 
                 bottom: 40%; 
             }
+        }
+
+        &__deactive-form {
+            transform: translateY(90%);
         }
 
         &__circles {
