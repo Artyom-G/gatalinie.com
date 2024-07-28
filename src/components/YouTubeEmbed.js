@@ -1,4 +1,5 @@
 import React from 'react';
+import './YouTubeEmbed.scss';
 
 const YouTubeEmbed = ({ embedId }) => {
     return (

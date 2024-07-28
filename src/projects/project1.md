@@ -1,5 +1,8 @@
 # Uniform - Top Shirt
+
 ![Image](../assets/Uniform1.jpg)
+<imageembed src="./Uniform1.jpg" alt="Local Image" />
+<imageembed src="../assets/Uniform1.jpg" alt="Local Image" />
 
 # Patterns
 ![Image](../assets/Uniform2.jpg)
