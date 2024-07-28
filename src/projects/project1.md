@@ -1,9 +1,16 @@
-The website is reading and interpretting a MD file for every project
+# Uniform - Top Shirt
+![Image](../assets/Uniform1.jpg)
 
-# Project 1
+# Patterns
+![Image](../assets/Uniform2.jpg)
 
-![Image](https://img-cdn.pixlr.com/image-generator/history/65bb506dcb310754719cf81f/ede935de-1138-4f66-8ed7-44bd16efc709/medium.webp)
+# Sewing
+![Image](../assets/Uniform4.jpg)
+![Image](../assets/Uniform5.jpg)
 
-# Custom MD Video Element 
+# Styling
+![Image](../assets/Uniform2.jpg)
 
-<youtube embedid="BxV14h0kFs0">
+# How to sew | Sewing Order Instructions | Tutorial For Beginners
+
+<youtube embedid="YVnsFNrAIqY">

@@ -1,7 +1,3 @@
-# Services
-
-Services MD template
-
 # About Me
 
 Hi,
@@ -98,8 +94,6 @@ Transform your fashion ideas into reality with me. Trust me with your garments, 
 Contact me today to discuss your project and learn how I can help you achieve your design goals.
 
 
-
-
-
-
 <youtube embedid="NThc1eSNzlk">
+
+![Image](../assets/FollowMe.jpg)
