@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { MarkdownCustom } from '../components/MarkdownCustom';
-import Post from '../components/Post';
 import './ProjectDetail.scss';
 
 const ProjectDetail = () => {
@@ -25,7 +24,7 @@ const ProjectDetail = () => {
 
     return (
         <div className="project-detail">
-            <Post content={content}/>
+            <MarkdownCustom content={content}/>
         </div>
     );
 };

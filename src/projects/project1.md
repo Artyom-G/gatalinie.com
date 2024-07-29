@@ -1,18 +1,21 @@
 # Uniform - Top Shirt
 
-Hi 
-<picture src="./Uniform1.jpg" alt="Local Image">
+<picture src="Uniform1.jpg" alt="Uniform 1"></picture>
 
 # Patterns
-![Image](../assets/Uniform2.jpg)
+
+<picture src="Uniform2.jpg" alt="Uniform 2"></picture>
 
 # Sewing
-![Image](../assets/Uniform4.jpg)
-![Image](../assets/Uniform5.jpg)
+
+<picture src="Uniform4.jpg" alt="Uniform 4"></picture>
+
+<picture src="Uniform5.jpg" alt="Uniform 5"></picture>
 
 # Styling
-![Image](../assets/Uniform2.jpg)
+
+<picture src="Uniform2.jpg" alt="Uniform 2"></picture>
 
 # How to sew | Sewing Order Instructions | Tutorial For Beginners
 
-<youtube embedId="YVnsFNrAIqY">
+<youtube embedId="YVnsFNrAIqY"></youtube>
