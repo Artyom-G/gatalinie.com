@@ -4,13 +4,15 @@ import './ImageEmbed.scss';
 const ImageEmbed = ({ src, alt }) => {
     let imageSrc = src;
 
-    if (src.startsWith('./') || src.startsWith('/') || src.startsWith('../')) {
+    if (src.startsWith('./') || src.startsWith('/')  || src.startsWith('../')) {
         try {
             imageSrc = require(`${src}`).default;
         } catch (err) {
             console.error(`Error loading image: ${src}`, err);
         }
     }
+
+    console.log(src);
 
     return (
         <div className="image-embed">

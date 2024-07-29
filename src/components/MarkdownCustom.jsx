@@ -1,11 +1,11 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import remarkParse from 'remark-parse';
 import remarkRehype from 'remark-rehype';
 import rehypeRaw from 'rehype-raw';
-import YouTubeEmbed from './YouTubeEmbed';
-import ImageEmbed from './ImageEmbed';
+import YouTubeEmbed from './YouTubeEmbed';  
+import ImageEmbed from './ImageEmbed'; 
 import './MarkdownCustom.scss';
 
 const transformYouTube = () => (tree) => {
@@ -31,7 +31,7 @@ const transformYouTube = () => (tree) => {
 
 const transformImageEmbed = () => (tree) => {
     const visit = (node, index, parent) => {
-        if (node.type === 'html' && node.value.startsWith('<imageembed ')) {
+        if (node.type === 'html' && node.value.startsWith('<image ')) {
             const urlMatch = node.value.match(/src="(.+?)"/);
             const altMatch = node.value.match(/alt="(.+?)"/);
             if (urlMatch && altMatch) {
@@ -39,7 +39,7 @@ const transformImageEmbed = () => (tree) => {
                 const alt = altMatch[1];
                 parent.children.splice(index, 1, {
                     type: 'element',
-                    tagName: 'imageembed',
+                    tagName: 'image',
                     properties: { src, alt },
                     children: []
                 });
@@ -53,16 +53,16 @@ const transformImageEmbed = () => (tree) => {
 };
 
 export const MarkdownCustom = ({ content }) => {
-    return (
+    return ( 
         <div className='md'>
             <ReactMarkdown
                 children={content}
                 remarkPlugins={[remarkParse, remarkGfm, [remarkRehype, { allowDangerousHtml: true }], rehypeRaw, transformYouTube, transformImageEmbed]}
                 components={{
                     youtube: ({ embedid }) => <YouTubeEmbed embedId={embedid} />,
-                    imageembed: ({ src, alt }) => <ImageEmbed src={src} alt={alt} />
+                    image: ({ src, alt }) => <ImageEmbed src={src} alt={alt} />
                 }}
             />
         </div>
     );
-};
+}
