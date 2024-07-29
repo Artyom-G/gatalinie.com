@@ -5,6 +5,7 @@
     text-align: center;
     position: relative;
     transition: transform 0.2s;
+    box-shadow: 0px 0px 4px rgb(34, 7, 23);
 
     &__image-container {
         position: relative;
@@ -47,7 +48,8 @@
 
     &:hover {
         transform: translateY(-5px);
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        box-shadow: 0px 6px 4px rgb(34, 7, 23);
+        //box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     }
 
     &:hover &__overlay {
