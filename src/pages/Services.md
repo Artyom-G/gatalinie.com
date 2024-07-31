@@ -10,9 +10,10 @@ I believe that design is the emotional expression or application of human creati
 
 Design is my personal outlet of creativity that brings me joy of seeing my customers empowered by my clothing works.
 
-<picture src="https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/312205500_187522900506757_9063081216873764767_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kKtLjunLzJ8Q7kNvgEpIfWo&_nc_ht=scontent-yyz1-1.xx&oh=00_AYAIn_HGI6ZZwsfMt_B_2GTI2kz_PutHJSz-vj2BL7UyOw&oe=66A77454" alt="GaTalinie"></picture>
 
 <picture src="Services1.jpg"></picture>
+
+<picture src="Services2.jpg"></picture>
 
 # What I Will Do for YOU
 
