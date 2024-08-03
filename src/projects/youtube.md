@@ -1,21 +1,46 @@
-The website is reading and interpretting a MD file for every project
+# How To Sew | Sewing Order Instructions | Video Tutorials
 
-# Sketching
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-# Patterns
+## How to Assemble the Printed Sheets Layout
 
-## Pattern 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<youtube embedid="C4wbIis1Mjs"></youtube>
 
-## Pattern 2
 
-![Pattern](https://www.theshapesoffabric.com/wp-content/uploads/2020/05/simple-dress-pattern-1-724x1024.jpg)
+## How To Sew a Pumpkin Long Sleeve DRESS
 
-# Sewing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<youtube embedid="DqOwINnmhyA"></youtube>
 
-# Styling 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<youtube embedid="DqOwINnmhyA">
+## How To Sew a Fancy Casual SHIRT
+
+<youtube embedId="2Aijq-sUC_M"></youtube>
+
+
+## How To Sew a Maxi Midi PLEATED SKIRT
+
+<youtube embedId="bhHbgROuRp0"></youtube>
+
+
+## How To Sew a Sport DOUBLE-SIDED WEAR
+
+<youtube embedId="naq_mUPTaYo"></youtube>
+
+
+## How To Sew a Unisex UNIFORM Top
+
+<youtube embedId="YVnsFNrAIqY"></youtube>
+
+
+## How To Sew a Straight SUNDRESS For Women
+
+<youtube embedId="vvDUSABE97E"></youtube>
+
+
+## How To Sew a DRESS From T-Shirts
+
+<youtube embedId="ax3YhOryTsM"></youtube>
+
+
+## How To Sew a Crew Neck T-SHIRT For Women
+
+<youtube embedId="-dL-Dcoafdw"></youtube>
