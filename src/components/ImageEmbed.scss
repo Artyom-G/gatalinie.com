@@ -1,11 +1,11 @@
 .image-embed {
     display: flex;
     align-items: center;
+    justify-content: center;
 
     img{
         width: auto;
         height: auto;
-        min-width: 500px;
         max-width: 800px;
         max-height: 700px;
     }
