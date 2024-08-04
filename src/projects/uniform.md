@@ -6,6 +6,8 @@
 
 <picture src="Uniform3.jpg" alt="Uniform 2"></picture>
 
+<picture src="Uniform7.png" alt="Uniform 7"></picture>
+
 # Sewing
 
 <picture src="Uniform6.jpg" alt="Uniform 6"></picture>

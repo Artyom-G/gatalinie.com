@@ -6,11 +6,11 @@
 
 <picture src="T-Shirt_02.jpg" alt="T-Shirt_02"></picture>
 
+<picture src="T-Shirt_04.png" alt="T-Shirt_04"></picture>
+
 # Sewing
 
 <picture src="T-Shirt_03.png" alt="T-Shirt_03"></picture>
-
-<picture src="T-Shirt_04.png" alt="T-Shirt_04"></picture>
 
 # Styling
 
