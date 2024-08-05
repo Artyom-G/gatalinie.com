@@ -2,6 +2,18 @@
 
 <picture src="Pleated Skirt_01.jpg" alt="Pleated Skirt_01"></picture>
 
+# Styling
+
+<picture src="Pleated Skirt_07.jpg" alt="Pleated Skirt_07"></picture>
+
+<picture src="Pleated Skirt_08.jpg" alt="Pleated Skirt_08"></picture>
+
+<picture src="Pleated Skirt_09.jpg" alt="Pleated Skirt_09"></picture>
+
+<picture src="Pleated Skirt_10.jpg" alt="Pleated Skirt_10"></picture>
+
+<picture src="Pleated Skirt_11.jpg" alt="Pleated Skirt_11"></picture>
+
 # Patterns
 
 <picture src="Pleated Skirt_02.jpg" alt="Pleated Skirt_02"></picture>
@@ -20,14 +32,3 @@
 
 <youtube embedId="bhHbgROuRp0"></youtube>
 
-# Styling
-
-<picture src="Pleated Skirt_07.jpg" alt="Pleated Skirt_07"></picture>
-
-<picture src="Pleated Skirt_08.jpg" alt="Pleated Skirt_08"></picture>
-
-<picture src="Pleated Skirt_09.jpg" alt="Pleated Skirt_09"></picture>
-
-<picture src="Pleated Skirt_10.jpg" alt="Pleated Skirt_10"></picture>
-
-<picture src="Pleated Skirt_11.jpg" alt="Pleated Skirt_11"></picture>
