@@ -2,6 +2,18 @@
 
 <picture src="Short Skirt_01.jpg" alt="Short Skirt_01"></picture>
 
+# Styling
+
+<picture src="Short Skirt_07.jpg" alt="Short Skirt_07"></picture>
+
+<picture src="Short Skirt_08.jpg" alt="Short Skirt_08"></picture>
+
+<picture src="Short Skirt_09.jpg" alt="Short Skirt_09"></picture>
+
+<picture src="Short Skirt_10.jpg" alt="Short Skirt_10"></picture>
+
+<picture src="Short Skirt_11.jpg" alt="Short Skirt_11"></picture>
+
 # Patterns
 
 <picture src="Short Skirt_02.jpg" alt="Short Skirt_02"></picture>
@@ -15,7 +27,3 @@
 <picture src="Short Skirt_04.jpg" alt="Short Skirt_04"></picture>
 
 <picture src="Short Skirt_05.jpg" alt="Short Skirt_05"></picture>
-
-# Styling
-
-<picture src="Short Skirt_07.jpg" alt="Short Skirt_07"></picture>
