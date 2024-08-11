@@ -1,5 +1,7 @@
 # Pleated Skirt
 
+# SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1275580812/women-pleated-skirt-with-pockets-maxi) For Your OWN Project - Easy and INSTANT Download Online
+
 <picture src="Pleated Skirt_01.jpg" alt="Pleated Skirt_01"></picture>
 
 # Styling
