@@ -1,5 +1,7 @@
 # Straight Short Skirt
 
+# SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1191611583/straight-short-skirt-women-classic-style) For Your OWN Project - Easy and INSTANT Download Online
+
 <picture src="Short Skirt_01.jpg" alt="Short Skirt_01"></picture>
 
 # Styling

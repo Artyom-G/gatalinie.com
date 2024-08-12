@@ -1,5 +1,7 @@
 # Crew Neck T-Shirt
 
+# SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1139875756/crew-neck-t-shirt-for-women-casual-style) For Your OWN Project - Easy and INSTANT Download Online
+
 <picture src="T-Shirt_01.jpg" alt="T-Shirt_01"></picture>
 
 # Styling

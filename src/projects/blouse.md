@@ -1,5 +1,7 @@
 # V-Neck Blouse/Shirt
 
+# SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1135091853/v-neck-long-sleeve-light-blouse-shirt) For Your OWN Project - Easy and INSTANT Download Online
+
 <picture src="Vneck Blouse_01.jpg" alt="Vneck Blouse_01"></picture>
 
 # Styling
