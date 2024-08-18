@@ -1,4 +1,4 @@
-# ART DRAWING & PAINTING
+# Art Drawing & Painting
 
 
 <picture src="Art Main.jpg" alt="Art Main"></picture>
