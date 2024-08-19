@@ -20,22 +20,23 @@
             top: 20%; 
             left: 50%;
             transform: translateX(-50%);
-            width: 1200px;
-            height: auto;
+            height: 1200px;
+            max-height: 140%;
             z-index: 5;
         }
 
         &__hands {
             position: absolute;
-            width: 360px;
-            height: auto;
+            height: 200px;
+            //max-height: 140%;
             z-index: 6;
             transition: transform 0.4s;        
         }
 
         &__hands1 {
-            bottom: 8%; 
-            left: calc(50% + 250px); 
+            bottom: 20%; 
+            left: calc(50% + 230px); 
+            scale: 1.1;
 
             &:hover {
                 transform: translateX(-10%);
@@ -43,8 +44,9 @@
         }
 
         &__hands2 {
-            bottom: 5%; 
-            left: calc(50% - 250px - 360px); 
+            bottom: 15%; 
+            left: calc(50% - 230px - 320px); 
+            scale: 0.9;
 
             &:hover {
                 transform: translateX(10%);
@@ -53,7 +55,8 @@
 
         &__hands3 {
             bottom: 40%; 
-            left: calc(50% - 250px  - 360px);
+            left: calc(50% - 230px - 320px);
+            scale: 0.9;
 
             &:hover {
                 transform: translateX(10%);
@@ -170,11 +173,11 @@
     
             &__avatar {
                 top: 22%;
-                width: 500px;
+                height: 500px;
             }
 
             &__hands {
-                width: 120px;
+                height: 90px;
             }
 
             &__hands1{
@@ -196,7 +199,7 @@
         &__circles {
             
             &__base{
-                scale: 0.7;
+                scale: 0.6;
             }
 
             &__1 {
@@ -261,11 +264,11 @@
     
             &__avatar {
                 top: 22%;
-                width: 900px;
+                height: 900px;
             }
 
             &__hands {
-                width: 220px;
+                height: 150px;
             }
 
             &__hands1{
@@ -343,25 +346,25 @@
     
             &__avatar {
                 top: 22%;
-                width: 1000px;
+                height: 1000px;
             }
 
             &__hands {
-                width: 260px;
+                height: 160px;
             }
 
             &__hands1{
-                left: calc(50% + 220px); 
-                bottom: 18%; 
+                left: calc(50% + 200px); 
+                bottom: 25%; 
             }
             
             &__hands2{
-                left: calc(50% - 220px - 260px); 
-                bottom: 10%; 
+                left: calc(50% - 200px - 230px); 
+                bottom: 15%; 
             }
 
             &__hands3{
-                left: calc(50% - 220px - 260px); 
+                left: calc(50% - 200px - 230px); 
                 bottom: 40%; 
             }
         }

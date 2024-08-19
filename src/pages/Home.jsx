@@ -16,14 +16,26 @@ export const Home = () => {
         circles.forEach(circle => {
             circle.animate(
                 [
-                    { transform: 'scale(1)', opacity: 0.9 },
-                    { transform: 'scale(1.03)', opacity: 0.82 },
-                    { transform: 'scale(1.04)', opacity: 0.8 },
-                    { transform: 'scale(1.03)', opacity: 0.82 },
-                    { transform: 'scale(1)', opacity: 0.9 }
+                    { transform: 'scale(1.35)', opacity: 0.85 },
+                    { transform: 'scale(1.44)', opacity: 0.86 },
+                    { transform: 'scale(1.525)', opacity: 0.875 },
+                    { transform: 'scale(1.60)', opacity: 0.885 },
+                    { transform: 'scale(1.69)', opacity: 0.898 },
+                    { transform: 'scale(1.7)', opacity: 0.9 },
+                    { transform: 'scale(1.69)', opacity: 0.898 },
+                    { transform: 'scale(1.60)', opacity: 0.885 },
+                    { transform: 'scale(1.525)', opacity: 0.875 },
+                    { transform: 'scale(1.44)', opacity: 0.86 },
+                    { transform: 'scale(1.35)', opacity: 0.85 },
+                    { transform: 'scale(1.23)', opacity: 0.837 },
+                    { transform: 'scale(1.175)', opacity: 0.825 },
+                    { transform: 'scale(1.103)', opacity: 0.815 },
+                    { transform: 'scale(1.05)', opacity: 0.81 },
+                    { transform: 'scale(1.01)', opacity: 0.80 },
+                    { transform: 'scale(1)', opacity: 0.8 }
                 ],
                 {
-                    duration: 6000,
+                    duration: 4000,
                     iterations: Infinity
                 }
             );
