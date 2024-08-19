@@ -1,13 +1,10 @@
 .projects {
-    display: flex;
-    flex-direction: column;
     padding-top: 200px;
     padding-left: 20%;
     padding-right: 20%;
     padding-bottom: 300px;
-    justify-content: center;
 
-    h1{
+    &__h1{
         text-align: center;
         color: var(--primary-color);
         padding-top: 150px;

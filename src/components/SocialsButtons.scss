@@ -1,0 +1,60 @@
+.container-socials {
+    position: fixed;
+    bottom: 60px;
+    left: 60px;
+    z-index: 1000; 
+
+    svg {
+        width: 25px;
+        height: 25px; 
+        padding-left: 15px; 
+
+        path {
+            fill: var(--primary-color);
+            cursor: pointer;
+
+            &:hover {
+                opacity: 0.7;
+            }
+        }
+    }
+}
+
+@media (max-width: 1024px) {
+    .container-socialsbuttons {
+        bottom: 50px;
+        left: 50px;
+
+        svg {
+            width: 25px; 
+            height: 25px; 
+            padding-left: 15px; 
+        }
+    }
+}
+
+@media (max-width: 800px) {
+    .container-socialsbuttons {
+        bottom: 40px;
+        left: 40px;
+
+        svg {
+            width: 25px; 
+            height: 25px; 
+            padding-left: 12px;  
+        }
+    }
+}
+
+@media (max-width: 480px) {
+    .container-socialsbuttons {
+        bottom: 30px;
+        left: 30px;
+
+        svg {
+            width: 25px; 
+            height: 25px; 
+            padding-left: 12px;  
+        }
+    }
+}

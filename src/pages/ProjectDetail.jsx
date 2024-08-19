@@ -1,11 +1,14 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { MarkdownCustom } from '../components/MarkdownCustom';
+import { SocialsButtons } from '../components/SocialsButtons';
 import './ProjectDetail.scss';
 
 const ProjectDetail = () => {
     const { name } = useParams();
     const [content, setContent] = useState('');
+
+    const footer = '# Contact:\n\nPhone: 519-722-5499\n\nAddress: 108 Ahrens St W, Unit 2B, Kitchener ON N2H 4C3';
 
     useEffect(() => {
         const fetchContent = async () => {
@@ -31,7 +34,8 @@ const ProjectDetail = () => {
 
     return (
         <div className="project-detail">
-            <MarkdownCustom content={content}/>
+            <SocialsButtons></SocialsButtons>
+            <MarkdownCustom content={content + footer}/>
         </div>
     );
 };

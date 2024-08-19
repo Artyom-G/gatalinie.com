@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import ProjectCard from '../components/ProjectCard';
+import { SocialsButtons } from '../components/SocialsButtons';
+import { MarkdownCustom } from '../components/MarkdownCustom';
 import './Projects.scss';
 
 const Projects = () => {
@@ -40,6 +42,7 @@ const Projects = () => {
 
     return (
         <div className="projects">
+            <SocialsButtons></SocialsButtons>
             <div className='projects__projects'>
                 {projects.map((project, index) => (
                     <div key={index}>
@@ -47,7 +50,7 @@ const Projects = () => {
                     </div>
                 ))}
             </div>
-            <h1>Miscellaneous</h1>
+            <h1 className='projects__h1'>Miscellaneous</h1>
             <div className='projects__projects'>
                 {misc.map((project, index) => (
                     <div key={index}>

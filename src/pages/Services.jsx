@@ -1,9 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import { MarkdownCustom } from '../components/MarkdownCustom';
+import { SocialsButtons } from '../components/SocialsButtons';
 import './Services.scss';
 
 export const Services = () => {
     const [content, setContent] = useState('');
+    const footer = '# Contact:\n\nPhone: 519-722-5499\n\nAddress: 108 Ahrens St W, Unit 2B, Kitchener ON N2H 4C3';
 
     useEffect(() => {
         const fetchContent = async () => {
@@ -22,7 +24,8 @@ export const Services = () => {
     
     return (
         <div className='services'>
-            <MarkdownCustom content={content}/>
+            <SocialsButtons/>
+            <MarkdownCustom content={content + footer}/>
         </div>        
     );
 }

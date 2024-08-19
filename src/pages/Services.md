@@ -1,8 +1,3 @@
-## Contact:
-Phone: 519-722-5499
-
-Address: 108 Ahrens St W, Unit 2B, Kitchener ON N2H 4C3
-
 # About Me
 
 Hi,
