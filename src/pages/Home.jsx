@@ -16,26 +16,30 @@ export const Home = () => {
         circles.forEach(circle => {
             circle.animate(
                 [
-                    { transform: 'scale(1.35)', opacity: 0.85 },
-                    { transform: 'scale(1.44)', opacity: 0.86 },
-                    { transform: 'scale(1.525)', opacity: 0.875 },
-                    { transform: 'scale(1.60)', opacity: 0.885 },
-                    { transform: 'scale(1.69)', opacity: 0.898 },
-                    { transform: 'scale(1.7)', opacity: 0.9 },
-                    { transform: 'scale(1.69)', opacity: 0.898 },
-                    { transform: 'scale(1.60)', opacity: 0.885 },
-                    { transform: 'scale(1.525)', opacity: 0.875 },
-                    { transform: 'scale(1.44)', opacity: 0.86 },
-                    { transform: 'scale(1.35)', opacity: 0.85 },
-                    { transform: 'scale(1.23)', opacity: 0.837 },
-                    { transform: 'scale(1.175)', opacity: 0.825 },
-                    { transform: 'scale(1.103)', opacity: 0.815 },
-                    { transform: 'scale(1.05)', opacity: 0.81 },
-                    { transform: 'scale(1.01)', opacity: 0.80 },
-                    { transform: 'scale(1)', opacity: 0.8 }
+                    { transform: 'scale(1.035)', opacity: 0.85 },
+                    { transform: 'scale(1.044)', opacity: 0.86 },
+                    { transform: 'scale(1.0525)', opacity: 0.875 },
+                    { transform: 'scale(1.060)', opacity: 0.885 },
+                    { transform: 'scale(1.069)', opacity: 0.898 },
+                    { transform: 'scale(1.07)', opacity: 0.9 },
+                    { transform: 'scale(1.069)', opacity: 0.898 },
+                    { transform: 'scale(1.060)', opacity: 0.885 },
+                    { transform: 'scale(1.0525)', opacity: 0.875 },
+                    { transform: 'scale(1.044)', opacity: 0.86 },
+                    { transform: 'scale(1.035)', opacity: 0.85 },
+                    { transform: 'scale(1.023)', opacity: 0.837 },
+                    { transform: 'scale(1.0175)', opacity: 0.825 },
+                    { transform: 'scale(1.0103)', opacity: 0.815 },
+                    { transform: 'scale(1.005)', opacity: 0.81 },
+                    { transform: 'scale(1)', opacity: 0.8 },
+                    { transform: 'scale(1.005)', opacity: 0.81 },
+                    { transform: 'scale(1.0103)', opacity: 0.815 },
+                    { transform: 'scale(1.0175)', opacity: 0.825 },
+                    { transform: 'scale(1.023)', opacity: 0.837 },
+                    { transform: 'scale(1.035)', opacity: 0.85 },
                 ],
                 {
-                    duration: 4000,
+                    duration: 6000,
                     iterations: Infinity
                 }
             );
