@@ -15,8 +15,15 @@ const ProjectDetail = () => {
                 const text = await response.text();
                 setContent(text);
             } catch (error) {
-                console.error('Error fetching the markdown file:', error);
-                setContent('Failed to load project content.');
+                try {
+                    const mdFile = await import(`../projects/projects/${name}.md`);
+                    const response = await fetch(mdFile.default);
+                    const text = await response.text();
+                    setContent(text);
+                } catch (error) {
+                    console.error('Error fetching the markdown file:', error);
+                    setContent('Failed to load project content.');
+                }
             }
         };
         fetchContent();

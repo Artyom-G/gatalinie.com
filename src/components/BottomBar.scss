@@ -33,6 +33,7 @@
         text-align: center;
         gap: 40px;
         z-index: 10;
+        //scale: 0.8;
 
         &__link {
 
@@ -123,6 +124,8 @@
     }
 }
 
+
+
 @media only screen and (min-width: 461px) and (max-width: 800px) {
     .bottombar{
 
@@ -141,6 +144,42 @@
                     }
                 }
             }
+        }
+    }
+}
+
+@media only screen and (min-height: 811px){
+    .bottombar{
+        bottom: 70px;
+    }
+}
+
+@media only screen and (min-height : 660px) and (max-height: 810px){
+
+    .bottombar{
+
+        &__menu{
+            scale: 0.9;
+        }
+    }
+}
+
+@media only screen and (min-height : 520px) and (max-height: 659px){
+
+    .bottombar{
+
+        &__menu{
+            scale: 0.7;
+        }
+    }
+}
+
+@media only screen and (max-height: 519px){
+
+    .bottombar{
+
+        &__menu{
+            scale: 0.6;
         }
     }
 }

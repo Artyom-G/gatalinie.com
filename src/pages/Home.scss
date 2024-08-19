@@ -381,3 +381,57 @@
         }
     }
 }
+
+@media only screen and (min-height : 660px) and (max-height: 770px){
+
+    .home{
+
+        &__contact{
+            scale: 0.9;
+            
+            .contact-form {
+                padding-bottom: 260px;
+                
+                textarea{
+                    height: 50px;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (min-height : 520px) and (max-height: 659px){
+
+    .home{
+
+        &__contact{
+            scale: 0.7;
+            
+            .contact-form {
+                padding-bottom: 500px;
+                
+                textarea{
+                    height: 20px;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-height: 519px){
+
+    .home{
+
+        &__contact{
+            scale: 0.6;
+            
+            .contact-form {
+                padding-bottom: 700px;
+                
+                textarea{
+                    height: 20px;
+                }
+            }
+        }
+    }
+}
