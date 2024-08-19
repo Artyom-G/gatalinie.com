@@ -23,7 +23,7 @@ const ImageEmbed = ({ src, alt="GaTalinie" }) => {
     if(loading){
         return (
             <div className='loader'>
-                <BounceLoader className="loading-screen__loader" color={"#ffffff"} size={50} />
+                <BounceLoader color={"#ffffff"} size={50} />
             </div>
         );
     }
