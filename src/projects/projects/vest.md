@@ -1,6 +1,6 @@
 # Crop Puff Vest
 
-# SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1400973089/zipped-insulated-vest-crop-puff) For Your OWN Project - Easy and INSTANT Download Online
+## SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1400973089/zipped-insulated-vest-crop-puff)
 
 <picture src="Vest_01.jpg" alt="Vest_01"></picture>
 

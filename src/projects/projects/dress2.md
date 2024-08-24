@@ -1,6 +1,6 @@
 # Pumpkin Long Sleeve Dress
 
-# SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1335638035/pumpkin-long-sleeve-dress-a-line-shape) For Your OWN Project - Easy and INSTANT Download Online
+## SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1335638035/pumpkin-long-sleeve-dress-a-line-shape)
 
 <picture src="Pumpkin Dress_01.jpg" alt="Pumpkin Dress_01"></picture>
 

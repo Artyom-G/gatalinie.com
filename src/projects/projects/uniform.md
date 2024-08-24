@@ -1,6 +1,6 @@
 # Uniform - Top Shirt
 
-# SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1241482831/unisex-medical-uniform-top-shirt-short) For Your OWN Project - Easy and INSTANT Download Online
+## SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1241482831/unisex-medical-uniform-top-shirt-short)
 
 <picture src="Uniform1.jpg" alt="Uniform 1"></picture>
 

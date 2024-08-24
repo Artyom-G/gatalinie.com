@@ -1,6 +1,6 @@
 # Sleeveless Short Dress with Pockets
 
-# SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1373821006/sleeveless-short-dress-with-pockets) For Your OWN Project - Easy and INSTANT Download Online
+## SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1373821006/sleeveless-short-dress-with-pockets)
 
 <picture src="Sleeveless Dress_01.jpg" alt="Sleeveless Dress_01"></picture>
 

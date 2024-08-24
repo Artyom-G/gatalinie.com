@@ -1,6 +1,6 @@
 # Summer Straight Sundress
 
-# SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1220856733/straight-sun-dress-slip-style-for-women) For Your OWN Project - Easy and INSTANT Download Online
+## SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1220856733/straight-sun-dress-slip-style-for-women)
 
 <picture src="Sundress_01.jpg" alt="Sundress_01"></picture>
 

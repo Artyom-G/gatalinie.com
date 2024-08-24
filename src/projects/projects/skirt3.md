@@ -1,6 +1,6 @@
 # Stretch Knee Long Skirt
 
-# SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1180528616/knee-long-stretch-skirt-women-business) For Your OWN Project - Easy and INSTANT Download Online
+## SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1180528616/knee-long-stretch-skirt-women-business)
 
 <picture src="Knee Long Skirt_01.jpg" alt="Knee Long Skirt_01"></picture>
 

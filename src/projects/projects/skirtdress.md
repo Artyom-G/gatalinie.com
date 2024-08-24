@@ -1,6 +1,6 @@
 # All-Purpose Skirt & Dress
 
-# SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1266131123/all-purpose-skirt-dress-women-fashion) For Your OWN Project - Easy and INSTANT Download Online
+## SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1266131123/all-purpose-skirt-dress-women-fashion)
 
 <picture src="Skirt Dress_01.jpg" alt="Skirt Dress_01"></picture>
 

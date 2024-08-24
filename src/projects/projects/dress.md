@@ -1,6 +1,6 @@
 # Trapeze Dress
 
-# SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1150252288/trapeze-short-dress-tent-style-for-women) For Your OWN Project - Easy and INSTANT Download Online
+## SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1150252288/trapeze-short-dress-tent-style-for-women)
 
 <picture src="Trapeze Dress_01.jpg" alt="Trapeze Dress_01"></picture>
 

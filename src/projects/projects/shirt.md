@@ -1,6 +1,6 @@
 # Fancy Casual Shirt
 
-# SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1231041182/fancy-casual-striped-shirt-front-back) For Your OWN Project - Easy and INSTANT Download Online
+## SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1231041182/fancy-casual-striped-shirt-front-back)
 
 <picture src="Casual Shirt_01.jpg" alt="Casual Shirt_01"></picture>
 

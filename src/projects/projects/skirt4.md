@@ -1,6 +1,6 @@
 # Straight Midi Long Skirt
 
-# SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1284639422/straight-midi-skirt-with-back-vent-cut) For Your OWN Project - Easy and INSTANT Download Online
+## SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1284639422/straight-midi-skirt-with-back-vent-cut)
 
 <picture src="Midi Skirt_01.jpg" alt="Midi Skirt_01"></picture>
 

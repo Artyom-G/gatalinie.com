@@ -1,6 +1,6 @@
 # Hooded Head Towel
 
-# SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1554195986/hooded-head-towel-bathroom-head-cap-for) For Your OWN Project - Easy and INSTANT Download Online
+## SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/listing/1554195986/hooded-head-towel-bathroom-head-cap-for)
 
 <picture src="Towel_01.jpg" alt="Towel_01"></picture>
 
