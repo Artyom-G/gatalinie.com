@@ -1,4 +1,4 @@
-# SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/shop/GaTalinie96) For Your OWN Projects - Easy and INSTANT Download Online
+## SHOP the Sewing PDF Patterns on [Etsy.com](https://www.etsy.com/ca/shop/GaTalinie96) For Your OWN Projects - Easy and INSTANT Download Online
 
 
 <picture src="ETSY Shop_01.jpg" alt="ETSY Shop_01"></picture>
